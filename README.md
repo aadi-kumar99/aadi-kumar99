@@ -1,4 +1,4 @@
-#  🚀  Hi , I'm Aadi Kumar
+#  🚀  Hi ,I'm AADI KUMAR
 
 - ⚡ **How to reach me:** aadiku2367@gmail.com
 - ⚡ **I Love Tech and Tech Love Me
