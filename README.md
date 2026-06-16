@@ -1,7 +1,8 @@
 #  🚀  Hi , I'm Aadi Kumar
 
-- 📫 **How to reach me:** aadiku2367@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **How to reach me:** aadiku2367@gmail.com
+- ⚡ **I Love Tech and Tech Love Me
+- ⚡ **Turning ideas into web applications
   
 ## 🌐 SOCIALS:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aadiverma099) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadi_verma_99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadi-verma0009) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aadi_verma_99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadiku2367@gmail.com) 
@@ -23,10 +24,10 @@
 ![](https://streak-stats.demolab.com/?user=aadi-kumar99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aadi-kumar99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+# 👋 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aadi-kumar99&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
