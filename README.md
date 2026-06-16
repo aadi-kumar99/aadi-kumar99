@@ -1,8 +1,9 @@
-#  🚀  Hi ,I'm AADI KUMAR
+#  🚀  Hi, I'm Aadi Kumar
 
-- ⚡ **How to reach me:** aadiku2367@gmail.com
+- ⚡ **How to reach me:** Tap email below
 - ⚡ **I Love Tech and Tech Love Me
-- ⚡ **Turning ideas into web applications
+- ⚡ **Turning ideas into web application
+- ⚡ **Passionate about web technologies
   
 ## 🌐 SOCIALS:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aadiverma099) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadi_verma_99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadi-verma0009) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aadi_verma_99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadiku2367@gmail.com) 
